@@ -1,8 +1,6 @@
-## Hi there 👋
-
-# About Me
+## About Me
 I'm a software developer with 5 years experience working with a range of technologies from C# to Javascript. 
-Largely working with .NET Framework, but also building my own personal projects in NextJS
+Largely working with .NET Framework, but also building my own personal projects in NextJS.
 
 # What am I currently working on?
 I'm currently working on an ecommerce platform that sells powerpoint quizzes, as well as a few other websites including a plumbing brochure site and another ecommerce platform for 3D printed goods. 
