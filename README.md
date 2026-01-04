@@ -1,9 +1,10 @@
 ## About Me
-I'm a software developer with 5 years experience working with a range of technologies from C# to Javascript. 
-Largely working with .NET Framework, but also building my own personal projects in NextJS.
+I'm a software developer with 5 years experience as a full stack developer.
+I've worked on large scale paas code bases using .Net Core and Framework but also smaller projects using NextJS and Typescript.
 
 # What am I currently working on?
-I'm currently working on an ecommerce platform that sells powerpoint quizzes, as well as a few other websites including a plumbing brochure site and another ecommerce platform for 3D printed goods. 
+I'm currently working on an ecommerce and games platform that sells powerpoint quizzes, which has a weekly interactive online quiz game with a real time leaderboard.
+I've also recently create a few websites for cleints such as a plumbing brochure site and another ecommerce platform for 3D printed goods. 
 <!--
 **Purney/Purney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
