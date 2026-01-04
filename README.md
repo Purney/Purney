@@ -1,6 +1,9 @@
 ## About Me
 I'm a software developer with 5 years experience as a full stack developer.
-I've worked on large scale paas code bases using .Net Core and Framework but also smaller projects using NextJS and Typescript.
+Currently during my 9-5 I work at Instanda as a software developer, as of now I'm on the integrations team which help integrate our PAAS with other platforms.
+I've previously worked on the hotfix team fixing urgent bugs and on the performance team reducing inefficiencies within the platform.
+
+Overall i've worked on large scale paas systems using .Net Core and Framework but also smaller projects using NextJS and Typescript.
 
 # What am I currently working on?
 I'm currently working on an ecommerce and games platform that sells powerpoint quizzes, which has a weekly interactive online quiz game with a real time leaderboard.
