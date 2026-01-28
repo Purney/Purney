@@ -7,7 +7,7 @@ Overall i've worked on large scale paas systems using .Net Core and Framework bu
 
 # What am I currently working on?
 I'm currently working on an ecommerce and games platform that sells powerpoint quizzes, which has a weekly interactive online quiz game with a real time leaderboard.
-I've also recently create a few websites for cleints such as a plumbing brochure site and another ecommerce platform for 3D printed goods. 
+I've also recently create a few websites for clients such as a plumbing brochure site, a shopify arts website and another ecommerce platform for 3D printed goods. 
 <!--
 **Purney/Purney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
